@@ -63,4 +63,3 @@ How to Run Metalama Chatbot on Your PC
 
 ---
 
-Feel free to update the content and repository link to match your project! Let me know if you’d like a `README.md` file for GitHub.
