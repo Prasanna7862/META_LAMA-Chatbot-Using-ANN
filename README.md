@@ -44,6 +44,9 @@ How to Run Metalama Chatbot on Your PC
 
 ---
 
+![image](https://github.com/user-attachments/assets/fa65c453-5272-4c09-8c8a-edb16f3f3a2d)
+
+
 ### **Additional Information about Metalama Chatbot Using ANN**
 
 - **Customization**:  
